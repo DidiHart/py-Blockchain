@@ -46,3 +46,9 @@ Make sure to activate virtual environment
 '''
 export SEED_DATA=True && python -m backend.app
 '''
+**Improvement phase-1**
+
+'''
+Synchronization is dependent on root node and dependent on an instance of the
+app to be running on port 3000
+'''
