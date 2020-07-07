@@ -45,7 +45,10 @@ Make sure to activate virtual environment
 
 '''
 export SEED_DATA=True && python -m backend.app
+
 '''
+
+
 **Improvement phase-1**
 
 '''
